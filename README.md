@@ -1,1 +1,1 @@
-Identifying workarounds fixes and tracking their evolution
+Identifying workarounds fixes from several GitHub repositories and tracking their evolution
